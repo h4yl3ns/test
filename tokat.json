@@ -1,0 +1,20 @@
+{ "tokat" : [
+  {
+     "isim" : "Tokat Yaprağı",
+     "aciklama":"Tadını yemeyen bilmez.",
+     "foto":"https://raw.githubusercontent.com/h4yl3ns/test/main/images.jpeg"
+  },
+
+
+  {
+     "isim":"Tokat Çemeni",
+     "aciklama":"Yedikten sonra 1 hafta toplu taşıma kullanmayın!",
+     "foto":"https://raw.githubusercontent.com/h4yl3ns/test/main/cemen.jpeg"
+  },
+
+  {
+     "isim":"Bat",
+     "aciklama":"Cevizle ev ekmeğiyle güzel gidiyo ya.",
+     "foto":"https://raw.githubusercontent.com/h4yl3ns/test/main/tokat-bati.jpg"
+  }
+]}
